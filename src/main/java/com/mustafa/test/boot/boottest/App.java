@@ -16,7 +16,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "start the app!" );
+        System.out.println( "start the app2!" );
         SpringApplication.run(App.class, args);
     }
     
